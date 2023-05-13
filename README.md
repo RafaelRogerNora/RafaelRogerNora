@@ -7,5 +7,11 @@ No momento estou aprendendo uma pouco de JavaScript, HTML e CSS
 
 qualquer coisa pode entrar em contato pelo e-mail: rafael.nora@escola.pr.gov.br
 
-![](https://tenor.com/trdB.gif)
+![](https://img.shields.io/badge/p5%20js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white)
+[![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://editor.p5js.org/)
+[![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)](https://scratch.mit.edu/)
+
+
+
+
 
